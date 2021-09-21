@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋   
+  
+## I'm Jiffy, web developper from Liege  
+🔭 I’m currently working on :
+- Medocs.be: website that register your medication  
+- demo http-client a symfony component that request for datas.  
+- my portfolio .... never satisfied !  
+
+
+🌱 I’m currently learning how to test my code.
 
 <!--
 **jphNovitz/jphNovitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
