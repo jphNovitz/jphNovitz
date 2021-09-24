@@ -1,6 +1,5 @@
-### Hi there 👋   
-  
-## I'm Jiffy, web developper from Liege  
+
+### I'm Jiffy, web developper from Liege 👋  
 🔭 I’m currently working on :
 - Medocs.be: website that register your medication  
 - demo http-client a symfony component that request for datas.  
