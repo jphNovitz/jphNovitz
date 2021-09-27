@@ -5,6 +5,7 @@
 - demo http-client a symfony component that request for datas.  
 - my portfolio .... never satisfied !  
 
+I'm currently reloading wellness project from 2016 to 2021
 
 🌱 I’m currently learning how to test my code.
 
