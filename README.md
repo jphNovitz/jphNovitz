@@ -1,13 +1,5 @@
 
-### I'm Jiffy, web developper from Liege 👋  
-🔭 I’m currently working on :
-- Medocs.be: website that register your medication  
-- demo http-client a symfony component that request for datas.  
-- my portfolio .... never satisfied !  
-
-I'm currently reloading wellness project from 2016 to 2021
-
-🌱 I’m currently learning how to test my code.
+### Welcome to my Pixel World👋  
 
 <!--
 **jphNovitz/jphNovitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
